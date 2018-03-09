@@ -1,0 +1,30 @@
+{
+  "name": "rpi-ws-location",
+  "version": "1.0.0",
+  "description": "webservice rpi",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-ip-access-control": "^1.0.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baotrung/rpi-ws-location.git"
+  },
+  "keywords": [
+    "webservice",
+    "raspberry"
+  ],
+  "author": "elguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baotrung/rpi-ws-location/issues"
+  },
+  "homepage": "https://github.com/baotrung/rpi-ws-location#readme"
+}
